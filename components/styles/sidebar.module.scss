@@ -1,0 +1,31 @@
+.sidebar{
+    height:100vh;
+    background: rgb(248, 248, 248);
+    color:rgb(88, 82, 128);
+    padding: 2%;
+    box-sizing: border-box;
+    float: left;
+    width: 15%;
+    font-size: 15px;
+    li{
+        list-style: none;
+        font-weight: bold;
+        margin-bottom: 13%;
+        a{
+            display: flex;
+            padding: 6% 0;
+            width: 100%;
+        }
+        svg{
+            display:block;
+            margin-right: 10px;
+        }
+        p{
+            line-height: 22px;
+        }
+        &:hover{
+            opacity:0.7;
+            cursor:pointer;
+        }
+    }
+}

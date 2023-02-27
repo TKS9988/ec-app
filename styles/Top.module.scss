@@ -1,0 +1,14 @@
+.kv{
+    width:100%;
+    overflow:hidden;
+    .left{
+        float:left;
+        h1{
+            margin-top: 18vw;
+            font-size: 8vw;
+        }
+    }
+    .right{
+        float:right;
+    }
+}

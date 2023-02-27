@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase deploy": "ts-ec-app",
+    "y": "ts-ec-app"
+  },
+  "targets": {}
+}
